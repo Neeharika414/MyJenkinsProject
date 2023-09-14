@@ -14,7 +14,7 @@ pipeline {
 				{
 					steps{
 						echo "Deploy the Project.........."
-                                                cvb
+                                                
 					          }
 				}
 				stage('Test') 
